@@ -49,3 +49,5 @@ npm test
 Here is a link to my Github profile: AltanKG
 
 Contact me by email here: altan.guc@colorado.edu
+
+Video Tutorial Link: https://drive.google.com/file/d/1V05irsBl9xzoo_kYyOKNGiwGZGgDMMAl/view
